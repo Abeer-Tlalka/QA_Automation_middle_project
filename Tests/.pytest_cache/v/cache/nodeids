@@ -1,0 +1,6 @@
+[
+  "test_signInSuite.py::TestSignInSuite::test_sign_in_correctly",
+  "test_signInSuite.py::TestSignInSuite::test_sign_in_with_empty_input",
+  "test_signInSuite.py::TestSignInSuite::test_singinwithWrongpassword",
+  "test_signInSuite.py::TestSignInSuite::test_singinwithaccountdoesnotexist"
+]

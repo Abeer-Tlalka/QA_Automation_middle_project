@@ -1,0 +1,4 @@
+{
+  "test_signInSuite.py::TestSignInSuite::test_singinwithaccountdoesnotexist": true,
+  "test_signInSuite.py::TestSignInSuite::test_singinwithWrongpassword": true
+}
